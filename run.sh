@@ -1,7 +1,9 @@
 #! /bin/zsh
 
-# pass in filename with command line arguments
+# Pass in filename with command line arguments
+# E.g. ./run.sh file-1.sh file-2.sh ... file-n.sh
 
+# ANSI color codes
 BGreen="\033[1;32m"
 NC="\033[0m"
 
